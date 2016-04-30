@@ -1,4 +1,18 @@
-# Release 2
-## Sistema con RabbitMQ
-### Dejen de stalkear repos ajenos
-![asd](https://s-media-cache-ak0.pinimg.com/236x/04/eb/3c/04eb3cecc628e06e9bafe8b049deca07.jpg)
+# Release 3
+## Sistema MUMMA está enfocado a la implementación del simulador de eventos con una consola gráfica para mejorar la usabilidad del Sistema.
+* Instrucciones para ejecutar el release en Windows
+  * Compilar el código 
+  `compile.bat`
+  * Ejecutar el manajer de eventos 
+  `EMStart.bat`
+  * Finalmente se ejecutan los archivos 
+  `ECstart.bat y Acstart.bat`
+
+* Instrucciones para ejecutar el release en Linux 
+  * Compilar el código 
+  `$ sh compile.sh`
+  * Ejecutar el manajer de eventos 
+  `$sudo sh EMStart.sh`
+  * Finalmente se ejecutan los archivos 
+  `$sudo sh ECstart.sh`
+  `$sudo sh Acstart.sh`
