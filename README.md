@@ -1,5 +1,5 @@
 # Release 3
-## Sistema MUMMA está enfocado a la implementación del simulador de eventos con una consola gráfica para mejorar la usabilidad del Sistema.
+## Sistema MUMMA está enfocado a la implementación de una consola gráfica para mejorar la usabilidad del Sistema.
 * Instrucciones para ejecutar el release en Windows
   * Compilar el código 
   `compile.bat`
